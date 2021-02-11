@@ -1,0 +1,5 @@
+C:\Users\ferme\Documents\Bank\obj\Debug\net5.0\Bank.csprojAssemblyReference.cache
+C:\Users\ferme\Documents\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferme\Documents\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\ferme\Documents\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\ferme\Documents\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
